@@ -1,6 +1,8 @@
 @import dev.danvega.jte.Page
+@import java.util.List
+
 @param String name
-@param java.util.List<String> items
+@param List<String> items
 @param Page page
 
 <!doctype html>
